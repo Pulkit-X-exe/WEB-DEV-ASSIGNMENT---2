@@ -118,6 +118,12 @@ const students = [
     name: "Meera Sen",
     age: 20,
     course: "BTech"
+  },
+  {
+    id: 21,
+    name: "Meera ",
+    age: 26,
+    course: "BTech"
   }
 ];
 
